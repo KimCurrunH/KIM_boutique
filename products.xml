@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/f1.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/f2.jpg</image>
+    </product>
+    <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/f3.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/f4.jpg</image>
+    </product>
+     <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/f5.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/f6.jpg</image>
+    </product>
+    <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/f7.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/f8.jpg</image>
+    </product>
+     <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/n1.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/n2.jpg</image>
+    </product>
+    <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/n3.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/n4.jpg</image>
+    </product>
+     <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/n5.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/n6.jpg</image>
+    </product>
+    <product>
+        <name>Product 1</name>
+        <description>This is product 1</description>
+        <price>19.99</price>
+        <image>products/n7.jpg</image>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <description>This is product 2</description>
+        <price>29.99</price>
+        <image>products/n8.jpg</image>
+    </product>
+
+    <!-- Add more products here -->
+</products>
